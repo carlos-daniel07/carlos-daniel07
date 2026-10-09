@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Carlos Arteaga, desarrollador web full stack</title>
+  <desc id="d">Logo de etiquetas con una barra azul parpadeante y el nombre Carlos Arteaga</desc>
+  <style>
+    .cursor { animation: blink 1.2s steps(1, end) infinite; }
+    @keyframes blink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+    text { font-family: Montserrat, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="#0a0a0a" stroke="#262626" stroke-width="2"/>
+  <g transform="translate(84 83) scale(0.5) translate(-76 -122)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="36">
+    <polyline points="226,150 104,256 226,362" stroke="#e5e5e5"/>
+    <polyline points="286,150 408,256 286,362" stroke="#e5e5e5"/>
+    <line class="cursor" x1="286" y1="362" x2="286" y2="226" stroke="#3b82f6"/>
+  </g>
+  <text x="310" y="142" font-size="64" font-weight="800" letter-spacing="-1" fill="#e5e5e5">CARLOS ARTEAGA</text>
+  <text x="312" y="188" font-size="28" font-weight="500" fill="#9ca3af">Full Stack Web Developer</text>
+  <text x="312" y="230" font-size="24" font-weight="600" fill="#3b82f6">carlosarteaga.dev</text>
+</svg>
