@@ -13,7 +13,7 @@
 </div>
 
 <details open>
-<summary><b>🇪🇸 Español</b></summary>
+<summary><b>🇨🇴 Español</b></summary>
 
 ## 👋 Hola, soy Carlos
 
